@@ -14,16 +14,16 @@
     "gen:local": "encore gen client next-js-test-ts-9wvi --output=./frontend/app/lib/client.ts --env=local"
   },
   "devDependencies": {
-    "typescript": "^5.2.2",
+    "next": "^14.2.13",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.2"
+    "typescript": "^5.2.2"
   },
   "dependencies": {
-    "encore.dev": "^1.35.3",
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
-    "@types/react-dom": "^18"
+    "@types/react-dom": "^18",
+    "encore.dev": "^1.35.3",
+    "typescript": "^5"
   }
 }
